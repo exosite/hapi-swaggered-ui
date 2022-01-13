@@ -43,7 +43,7 @@
     "posttest": "npm run lint"
   },
   "peerDependencies": {
-    "hapi": ">= 17.x.x"
+    "@hapi/hapi": ">= 17.x.x"
   },
   "homepage": "https://github.com/z0mt3c/hapi-swaggered-ui#readme",
   "directories": {
